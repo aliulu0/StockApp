@@ -1,0 +1,14 @@
+C:\Users\aliul\source\repos\StockApp\StockApp\bin\Debug\StockApp.exe.config
+C:\Users\aliul\source\repos\StockApp\StockApp\bin\Debug\StockApp.exe
+C:\Users\aliul\source\repos\StockApp\StockApp\bin\Debug\StockApp.pdb
+C:\Users\aliul\source\repos\StockApp\StockApp\obj\Debug\StockApp.csprojAssemblyReference.cache
+C:\Users\aliul\source\repos\StockApp\StockApp\obj\Debug\StockApp.FrmAdd.resources
+C:\Users\aliul\source\repos\StockApp\StockApp\obj\Debug\StockApp.Form1.resources
+C:\Users\aliul\source\repos\StockApp\StockApp\obj\Debug\StockApp.FrmHistory.resources
+C:\Users\aliul\source\repos\StockApp\StockApp\obj\Debug\StockApp.Properties.Resources.resources
+C:\Users\aliul\source\repos\StockApp\StockApp\obj\Debug\StockApp.FrmSell.resources
+C:\Users\aliul\source\repos\StockApp\StockApp\obj\Debug\StockApp.FrmUpdate.resources
+C:\Users\aliul\source\repos\StockApp\StockApp\obj\Debug\StockApp.csproj.GenerateResource.cache
+C:\Users\aliul\source\repos\StockApp\StockApp\obj\Debug\StockApp.csproj.CoreCompileInputs.cache
+C:\Users\aliul\source\repos\StockApp\StockApp\obj\Debug\StockApp.exe
+C:\Users\aliul\source\repos\StockApp\StockApp\obj\Debug\StockApp.pdb
